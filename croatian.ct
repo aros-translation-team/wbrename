@@ -1,4 +1,4 @@
-## version $VER: WBRename.catalog 1.2 (04.01.2010)
+## version $VER: WBRename.catalog 2.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -12,7 +12,7 @@ Preimenuje datoteke i mape
 ; Renames files and drawers
 ;
 MSG_COPYRIGHT
-Œ2006, AROS Dev Team
+(C)2006, AROS Dev Team
 ; ©2006, AROS Dev Team
 ;
 MSG_WINDOW_TITLE
@@ -20,7 +20,7 @@ Preimenuj
 ; Rename
 ;
 MSG_LINE
-Unesite novo ime
+Unesite novo ime za: '%s'
 ; Enter a new name for:
 ;
 MSG_NAME

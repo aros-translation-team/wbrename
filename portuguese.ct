@@ -1,4 +1,4 @@
-## version $VER: wbrename.catalog 1.1 (12.09.2006)
+## version $VER: wbrename.catalog 2.0 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -20,7 +20,7 @@ Mudar nome
 ;Rename
 ;
 MSG_LINE
-Escreva o novo nome
+Escreva o novo nome para: '%s'
 ;Enter a new name
 ;
 MSG_NAME

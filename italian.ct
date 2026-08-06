@@ -1,4 +1,4 @@
-## version $VER: wbrename.catalog 2.0 (18.05.2023)
+## version $VER: wbrename.catalog 2.0 (06.08.2026)
 ## language italiano
 ## codeset 0
 ; Authors: AMIGASYSTEM
@@ -20,7 +20,7 @@ Rinomina
 ; Rename
 ;
 MSG_LINE
-Inserisci il nuovo nome
+Inserisci il nuovo nome per: '%s'
 ; Enter a new name
 ;
 MSG_NAME

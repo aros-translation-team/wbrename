@@ -1,4 +1,4 @@
-## version $VER: deutsch.catalog 2.0 (26.12.2020)
+## version $VER: deutsch.catalog 2.0 (06.08.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -20,7 +20,7 @@ Yeniden adlandýr
 ; Rename
 ;
 MSG_LINE
-Þunun için yeni bir ad girin: "% s"
+Þunun için yeni bir ad girin: '%s'
 ; Enter a new name for: '%s'
 ;
 MSG_NAME
