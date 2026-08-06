@@ -1,0 +1,72 @@
+## version $VER: wbrename.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_TITLE
+WBRename
+; WBRename
+;
+MSG_DESCRIPTION
+Nime‰‰ tiedostoja ja hakemistoja uudelleen
+; Renames files and drawers
+;
+MSG_COPYRIGHT
+\xa9 2012-2019, The AROS Development Team
+; \xa9 2012-2019, The AROS Development Team
+;
+MSG_WINDOW_TITLE
+Nime‰ uudelleen
+; Rename
+;
+MSG_LINE
+Anna uusi nimi kohteelle: '%s'
+; Enter a new name for: '%s'
+;
+MSG_NAME
+\33bUusi nimi: \33n
+; \33bNew name: \33n
+;
+MSG_OK
+_OK
+; _OK
+;
+MSG_CANCEL
+_Peru
+; Ca_ncel
+;
+MSG_ERROR_TITLE
+Virhe
+; Error
+;
+MSG_ALREADY_EXIST
+'%s' on jo olemassa!
+; '%s' already exists!
+;
+MSG_FAILED
+Kohteen '%s' uudelleennime‰minen ep‰onnistui virheeseen:\n'%s'!
+; Rename of '%s' failed with error:\n'%s'!
+;
+MSG_ILLEGAL_CHARS
+'%s' sis‰lt‰‰ kiellettyj‰ merkkej‰!
+; '%s' contains illegal characters!
+;
+MSG_NEEDS_MORE_ARGS
+Tarvitaan 2 argumenttia!
+; Need 2 arguments!
+;
+MSG_INVALID_LOCK
+Virheellinen hakemistolukko!
+; Invalid directory lock!
+;
+MSG_WB_ONLY
+Ei voida k‰ynnist‰‰ Shellist‰!\n
+; Cannot be started from shell!\n
+;
+MSG_FAILED_CREATE_APP
+Sovelluksen luonti ep‰onnistui!
+; Failed to create Application!
+;
+MSG_OUTOFMEMORY
+En voi varata muistia!
+; Can't allocate RAM!
+;

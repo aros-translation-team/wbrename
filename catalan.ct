@@ -1,0 +1,72 @@
+## version $VER: wbrename.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_TITLE
+WBRename
+; WBRename
+;
+MSG_DESCRIPTION
+Canvia el nom de fitxers i calaixos
+; Renames files and drawers
+;
+MSG_COPYRIGHT
+\xa9 2012-2019, The AROS Development Team
+; \xa9 2012-2019, The AROS Development Team
+;
+MSG_WINDOW_TITLE
+Reanomenar
+; Rename
+;
+MSG_LINE
+Introduïu un nom nou per a: '%s'
+; Enter a new name for: '%s'
+;
+MSG_NAME
+\33bNom nou: \33n
+; \33bNew name: \33n
+;
+MSG_OK
+_D'acord
+; _OK
+;
+MSG_CANCEL
+Ca_ncel·lar
+; Ca_ncel
+;
+MSG_ERROR_TITLE
+Error
+; Error
+;
+MSG_ALREADY_EXIST
+'%s' ja existeix!
+; '%s' already exists!
+;
+MSG_FAILED
+El canvi de nom de '%s' ha fallat amb l'error:\n'%s'!
+; Rename of '%s' failed with error:\n'%s'!
+;
+MSG_ILLEGAL_CHARS
+'%s' conté caràcters no vàlids!
+; '%s' contains illegal characters!
+;
+MSG_NEEDS_MORE_ARGS
+Calen 2 arguments!
+; Need 2 arguments!
+;
+MSG_INVALID_LOCK
+Bloqueig de directori no vàlid!
+; Invalid directory lock!
+;
+MSG_WB_ONLY
+No es pot iniciar des del shell!\n
+; Cannot be started from shell!\n
+;
+MSG_FAILED_CREATE_APP
+No s'ha pogut crear l'aplicació!
+; Failed to create Application!
+;
+MSG_OUTOFMEMORY
+No es pot assignar RAM!
+; Can't allocate RAM!
+;
