@@ -24,7 +24,7 @@ Escriba el nuevo nombre para: '%s'
 ; Enter a new name for: '%s'
 ;
 MSG_NAME
-\33bNombre:\33n 
+\33bNombre:\33n
 ; \33bNew name: \33n
 ;
 MSG_OK

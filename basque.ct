@@ -24,7 +24,7 @@ Idatzi '%s' elementuaren izen berria
 ; Enter a new name for: '%s'
 ;
 MSG_NAME
-\33bIzena:\33n 
+\33bIzena:\33n
 ; \33bNew name: \33n
 ;
 MSG_OK

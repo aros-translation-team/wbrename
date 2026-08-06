@@ -24,7 +24,7 @@ Unesite novo ime za: '%s'
 ; Enter a new name for:
 ;
 MSG_NAME
-\33bNovo Ime:\33n 
+\33bNovo Ime:\33n
 ; \33bNew name:\33n 
 ;
 MSG_OK
